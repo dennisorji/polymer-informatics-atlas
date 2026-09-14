@@ -1,0 +1,6 @@
+Target,Model,Representation,Train_n,Test_n,Test_R2,Test_MAE,Test_RMSE
+Tg,ExtraTreesRegressor,Hybrid,408,103,0.607684,54.717581,69.004122
+FFV,HistGradientBoostingRegressor,Hybrid,5624,1406,0.703561,0.006652,0.016402
+Tc,HistGradientBoostingRegressor,Hybrid,589,148,0.824558,0.024889,0.037123
+Density,Ridge,Interpretable,490,123,0.920107,0.027508,0.041339
+Rg,HistGradientBoostingRegressor,Morgan_r4,491,123,0.702570,1.698532,2.610988
