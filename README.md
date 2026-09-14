@@ -1,6 +1,7 @@
 # Polymer Informatics Atlas
 
 [![Release](https://img.shields.io/github/v/release/dennisorji/polymer-informatics-atlas?display_name=tag)](https://github.com/dennisorji/polymer-informatics-atlas/releases/tag/v1.0.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22744658.svg)](https://doi.org/10.5281/zenodo.22744658)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A chemistry-aware polymer informatics study integrating structure–property modelling, chemical-domain generalization, multitask learning, uncertainty quantification, and interpretable polymer design.
@@ -11,7 +12,7 @@ Current stable release: **v1.0.0**, published 14 September 2026.
 
 [View the v1.0.0 GitHub release](https://github.com/dennisorji/polymer-informatics-atlas/releases/tag/v1.0.0).
 
-A Zenodo DOI will be added after the GitHub release is archived through the Zenodo integration.
+Archived release DOI: [**10.5281/zenodo.22744658**](https://doi.org/10.5281/zenodo.22744658).
 
 ## Overview
 
@@ -182,6 +183,14 @@ Core Python packages include NumPy, pandas, SciPy, scikit-learn, RDKit, PyTorch,
 ## Scientific claim boundary
 
 The Atlas identifies statistical structure–property relationships, predictive dependencies, generalization limits, and reliability patterns in the available dataset. It does **not** establish causal polymer-design laws. Repeat-unit SMILES do not encode every experimentally relevant variable, including molecular-weight distribution, processing history, crystallinity, morphology, or measurement conditions. Random-holdout performance should therefore not be interpreted as unrestricted extrapolation performance.
+
+## Citation
+
+Archived software release:
+
+**Dennis Obinna Orji. Polymer Informatics Atlas, v1.0.0. Zenodo. DOI: [10.5281/zenodo.22744658](https://doi.org/10.5281/zenodo.22744658).**
+
+Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
 ## Author
 
