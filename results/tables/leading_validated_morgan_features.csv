@@ -1,0 +1,6 @@
+Target,Morgan_index,Train_Spearman_rho,Holdout_R2_Drop_Mean
+Tg,80,-0.58692,0.05961
+FFV,1152,-0.35199,0.24337
+Tc,1143,0.81988,0.63390
+Rg,1117,0.57625,0.21846
+Rg,1057,-0.52863,0.19922
