@@ -3,11 +3,12 @@ title: Polymer Informatics Atlas
 message: If you use this repository, please cite the archived software release and the source dataset.
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.22744658
 authors:
   - family-names: Orji
     given-names: Dennis Obinna
 repository-code: https://github.com/dennisorji/polymer-informatics-atlas
-url: https://github.com/dennisorji/polymer-informatics-atlas
+url: https://doi.org/10.5281/zenodo.22744658
 license: MIT
 date-released: 2026-09-14
 abstract: >-
@@ -24,3 +25,12 @@ keywords:
   - conformal prediction
   - molecular fingerprints
   - structure-property relationships
+preferred-citation:
+  type: software
+  title: Polymer Informatics Atlas
+  version: 1.0.0
+  doi: 10.5281/zenodo.22744658
+  date-released: 2026-09-14
+  authors:
+    - family-names: Orji
+      given-names: Dennis Obinna
