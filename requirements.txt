@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+rdkit
+umap-learn
+torch
+joblib
+statsmodels
+jupyter
