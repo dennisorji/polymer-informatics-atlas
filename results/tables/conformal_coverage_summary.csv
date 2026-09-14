@@ -1,0 +1,4 @@
+Target,Test_n,Target_coverage,Empirical_coverage
+Tc,70,0.90,0.9571
+Density,65,0.90,0.9231
+Rg,66,0.90,0.9848
