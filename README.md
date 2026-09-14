@@ -61,7 +61,7 @@ The raw competition data are not redistributed in this repository. Obtain the so
 | FFV | HistGradientBoosting / Hybrid | 0.704 | 0.0067 | 0.0164 |
 | Tc | HistGradientBoosting / Hybrid | 0.825 | 0.0249 | 0.0371 |
 | Density | Ridge / Interpretable | 0.920 | 0.0275 | 0.0413 |
-| Rg | HistGradientBoosting / Morgan r4 | 0.703 | 1.699 | 2.611 |
+| Rg | HistGradientBoosting / Morgan r4 | 0.703 | 1.699 | 2.617 |
 
 The central result is not a single best algorithm: **different polymer properties depend on different structural scales and representations**.
 
@@ -144,6 +144,8 @@ See [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md) for the execution and artifact po
 ```text
 polymer-informatics-atlas/
 ├── README.md
+├── CHANGELOG.md
+├── RELEASE_NOTES_v1.0.0.md
 ├── REPRODUCIBILITY.md
 ├── LICENSE
 ├── CITATION.cff
@@ -174,7 +176,7 @@ The Atlas identifies statistical structure–property relationships, predictive 
 
 **DENNIS OBINNA ORJI**
 
-Industrial Chemistry and materials-informatics research portfolio.
+Research portfolio in industrial chemistry, polymer science, and materials informatics.
 
 ## License
 
