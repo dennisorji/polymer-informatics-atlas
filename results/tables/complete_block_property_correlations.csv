@@ -1,0 +1,7 @@
+Method,Property_A,Property_B,Correlation
+Pearson,Tc,Density,-0.4885
+Pearson,Tc,Rg,0.5530
+Pearson,Density,Rg,0.0211
+Spearman,Tc,Density,-0.4538
+Spearman,Tc,Rg,0.5030
+Spearman,Density,Rg,0.1166
