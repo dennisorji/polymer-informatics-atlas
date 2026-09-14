@@ -1,6 +1,17 @@
 # Polymer Informatics Atlas
 
+[![Release](https://img.shields.io/github/v/release/dennisorji/polymer-informatics-atlas?display_name=tag)](https://github.com/dennisorji/polymer-informatics-atlas/releases/tag/v1.0.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A chemistry-aware polymer informatics study integrating structure–property modelling, chemical-domain generalization, multitask learning, uncertainty quantification, and interpretable polymer design.
+
+## Release
+
+Current stable release: **v1.0.0**, published 14 September 2026.
+
+[View the v1.0.0 GitHub release](https://github.com/dennisorji/polymer-informatics-atlas/releases/tag/v1.0.0).
+
+A Zenodo DOI will be added after the GitHub release is archived through the Zenodo integration.
 
 ## Overview
 
