@@ -1,0 +1,11 @@
+{
+  "n_polymers": 7973,
+  "targets": {"Tg": 511, "FFV": 7030, "Tc": 737, "Density": 613, "Rg": 614},
+  "representations": {"interpretable": 36, "morgan_count_r4": 2048, "hybrid": 2084},
+  "morgan_selected_bits": 28,
+  "morgan_environment_occurrences": 261846,
+  "morgan_environment_count_mismatches": 0,
+  "complete_Tc_Density_Rg_triplets": 531,
+  "pareto_front_size": 7,
+  "atlas_morgan_svd_variance_retained": 0.8574
+}
