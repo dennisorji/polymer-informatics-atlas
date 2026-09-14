@@ -13,4 +13,6 @@ Highlights:
 
 The repository includes all six notebooks, curated result tables, summary figures, reproducibility documentation, and citation metadata.
 
+Zenodo archive DOI: [10.5281/zenodo.22744658](https://doi.org/10.5281/zenodo.22744658)
+
 Raw competition data and large intermediate artifacts are not redistributed.
