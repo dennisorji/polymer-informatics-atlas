@@ -1,10 +1,26 @@
 cff-version: 1.2.0
 title: Polymer Informatics Atlas
-message: If you use this repository, please cite it as described here.
+message: If you use this repository, please cite the archived software release and the source dataset.
 type: software
+version: 1.0.0
 authors:
   - family-names: Orji
     given-names: Dennis Obinna
 repository-code: https://github.com/dennisorji/polymer-informatics-atlas
+url: https://github.com/dennisorji/polymer-informatics-atlas
 license: MIT
 date-released: 2026-09-14
+abstract: >-
+  A six-notebook polymer informatics workflow integrating chemical data auditing,
+  polymer representation design, property-specific modelling, chemistry-aware
+  generalization, masked multitask learning, calibrated predictive reliability,
+  Morgan-environment interpretation, and an integrated Polymer Informatics Atlas.
+keywords:
+  - polymer informatics
+  - materials informatics
+  - machine learning
+  - polymer chemistry
+  - uncertainty quantification
+  - conformal prediction
+  - molecular fingerprints
+  - structure-property relationships
