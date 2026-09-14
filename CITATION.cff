@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Polymer Informatics Atlas
+message: If you use this repository, please cite it as described here.
+type: software
+authors:
+  - family-names: Orji
+    given-names: Dennis Obinna
+repository-code: https://github.com/dennisorji/polymer-informatics-atlas
+license: MIT
+date-released: 2026-09-14
