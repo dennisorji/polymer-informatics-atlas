@@ -1,0 +1,6 @@
+Target,Primary_predictive_representation,Dominant_interpretation,Generalization_result,Reliability_result
+Tg,Hybrid,"Ring density and aromaticity strongly associated with Tg; both global and local structure contribute.","No consistent dependence on Morgan nearest-neighbour similarity.","No Notebook 05 ensemble reliability model."
+FFV,Hybrid,"Oxygen/carbonyl chemistry is important, but local Morgan environments provide stronger predictive dependence.","Novelty increases typical error; split comparisons are confounded by response extremes.","No Notebook 05 ensemble reliability model."
+Tc,Hybrid,"Prediction is dominated by specific local Morgan environments; major chemistry-domain generalization sensitivity.","Strong chemistry-separated performance loss.","Ensemble disagreement usefully ranks prediction difficulty."
+Density,Interpretable,"Global composition and interpretable descriptors capture most predictive signal.","Moderate chemistry-related degradation while retaining high predictive performance.","Both chemical support and ensemble disagreement are informative."
+Rg,Morgan_r4,"Local/topological environments dominate; global descriptor correlations are descriptive rather than part of the final model.","Moderate chemistry-domain sensitivity.","Chemical support is more informative than ensemble disagreement."
