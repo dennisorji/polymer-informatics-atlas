@@ -1,0 +1,13 @@
+Target,Reliability_Regime,n,Mean_similarity,Mean_uncertainty,Mean_absolute_error
+Tc,Higher support / Higher disagreement,14,0.8658,0.0113,0.0433
+Tc,Higher support / Lower disagreement,11,0.8771,0.0052,0.0206
+Tc,Lower support / Higher disagreement,21,0.3972,0.0112,0.0280
+Tc,Lower support / Lower disagreement,24,0.4695,0.0049,0.0174
+Density,Higher support / Higher disagreement,6,0.8194,0.0179,0.0385
+Density,Higher support / Lower disagreement,19,0.8542,0.0063,0.0103
+Density,Lower support / Higher disagreement,26,0.4244,0.0177,0.0339
+Density,Lower support / Lower disagreement,14,0.4365,0.0069,0.0273
+Rg,Higher support / Higher disagreement,14,0.8457,0.6755,2.2811
+Rg,Higher support / Lower disagreement,11,0.8461,0.2752,0.6978
+Rg,Lower support / Higher disagreement,19,0.3958,0.5796,1.7355
+Rg,Lower support / Lower disagreement,22,0.4632,0.2782,2.0346
