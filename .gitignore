@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw / licensed datasets
+data/raw/
+*.parquet
+
+# Large generated arrays / model weights
+*.npy
+*.npz
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Notebook export archives
+*.zip
+
+# Temporary outputs
+outputs/
+artifacts/
